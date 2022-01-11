@@ -1,0 +1,1 @@
+After Cloning the project don't forget to install node_modules 
