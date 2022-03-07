@@ -1,0 +1,12 @@
+{
+    "shipmentnumber" : "Shipment No.",
+    "deliverstate" : "DELIVERED",
+    "date": "Latest Update ",
+    "track" : "Shipment Details",
+    "datenumber" : "Date",
+    "time" : "Time",
+    "activity" : "Activity",
+    "hub" : "hub"
+
+ 
+}

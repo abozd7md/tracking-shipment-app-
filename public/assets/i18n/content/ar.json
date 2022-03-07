@@ -1,0 +1,12 @@
+{
+    "shipmentnumber" : "رقم الشحنة : ",
+    "deliverstate" : "تم التوصيل",
+    "date": "اخر تحديث",
+    "track" : "تفاصيل الشحنة",
+    "datenumber" : "التاريخ",
+    "time" : "الوقت",
+    "activity" : "الحدث",
+    "hub" : "مركز"
+
+
+}
